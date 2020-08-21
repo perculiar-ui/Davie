@@ -19,6 +19,7 @@ div{
 }
 .middle-container{
 	background-color: white;
+	margin: 0;
 	
 }
 .bottom-container{
@@ -94,7 +95,7 @@ p{
 }
 .photoshop{
 	position: relative;
-	left: 200px;
+	right: 20px;
 }
 .classname{
 	background-color:#68b0ab;
